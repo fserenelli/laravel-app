@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Studio\Totem\Providers\TotemServiceProvider::class,
 
         /*
          * Application Service Providers...
